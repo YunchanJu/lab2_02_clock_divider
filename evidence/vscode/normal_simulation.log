@@ -1,0 +1,4 @@
+VCD info: dumpfile wave.vcd opened for output.
+LAB2_PASS clock_divider checks=129
+END_NS=436
+C:\Users\samsung\lab2_02_clock_divider\sim\tb_clock_divider.sv:22: $finish called at 436000 (1ps)
